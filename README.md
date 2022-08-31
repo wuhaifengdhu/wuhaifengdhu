@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I's currently work on big data and machine learning area. In the daily life, we use java, hadoop, spark to deal with TB level data, and provide query ability to history data. 
+I’m looking for help with java/spark/hadoop questions. 
+
+Pronouns: Make yourself conformtable on work and heart. 
